@@ -67,6 +67,7 @@ public final class Constants {
 
     public static final double kMaxSpeed = 5;
     public static final double kMaxAngularSpeed = 1;
+    public static final boolean kTeleField = false;
   }
 
 public static class ControlSystem {
